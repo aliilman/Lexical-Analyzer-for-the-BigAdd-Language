@@ -128,17 +128,32 @@ A code block is a list of code lines between square brackets. A code block can b
 example:
     
 int size.
+    
 int sum.
+    
 move 5 to size.
+    
 loop size times
+    
 [ out size, newline.
+    
 add size to sum.
+    
 ]
+    
 out newline, “Sum:”, sum.
+    
 Output is:
+    
 5
+    
 4
+    
 3
+    
 2
+    
 1
+    
 Sum:15
+    
