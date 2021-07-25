@@ -1,0 +1,10 @@
+int s123_ize.
+int    Sum.{comment}
+move -56545 to 		size.
+loop size times {ignore me, I am a comment}
+[ out size, newline.
+
+
+add size to sum.
+]
+out newline, "Sum:", sum.
