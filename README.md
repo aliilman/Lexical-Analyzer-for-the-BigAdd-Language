@@ -123,8 +123,10 @@ example:
 loop 10 times out “*”. {writes 10 stars on the screen}
   
 Code Block:
+    
 A code block is a list of code lines between square brackets. A code block can be used in a loop, interchangeably with a single line of code. By using code blocks, loops may be nested within each other.
 example:
+    
 int size.
 int sum.
 move 5 to size.
